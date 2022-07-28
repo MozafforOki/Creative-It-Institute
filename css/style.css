@@ -26,14 +26,16 @@ body{
 .card .card-picture img{
     width: 100%;
 }
-/*
+
 .frequently-asked-questions{
     width: 60%;
     margin: 0 auto;
 }
 
+/* Media Quries */
+
 /*====Tablet device==== */
-/*@media screen and (max-width:991px){
+@media screen and (max-width:991px){
     .frequently-asked-questions{
         width: 88%;
         margin: 0 auto;
@@ -42,10 +44,10 @@ body{
 }
 
 /*=== Mobile device === */
-/*@media screen and (max-width:767px){
+@media screen and (max-width:767px){
      /* .frequently-asked-questions{
         width: 90%;
         margin: 0 auto;
     } */
     
-}/*
+}
