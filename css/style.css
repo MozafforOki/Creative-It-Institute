@@ -23,9 +23,10 @@ body{
    object-fit: cover;
 }
 
-/*.card .card-picture img{
+.card .card-picture img{
     width: 100%;
 }
+/*
 .frequently-asked-questions{
     width: 60%;
     margin: 0 auto;
