@@ -32,6 +32,11 @@ body{
     margin: 0 auto;
 }
 
+.companies img{
+    height: 24px;
+    width: 120px;
+}
+
 /* Media Quries */
 
 /*====Tablet device==== */
